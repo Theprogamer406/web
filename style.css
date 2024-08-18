@@ -6,6 +6,7 @@ body{
     color: black;
     float: left;
     font-size: 30px;
+    border-radius: 100%;
 }
 ul{
     float: right;
